@@ -1,16 +1,14 @@
-### Hi there 👋
+### Vojtěch Semecký
 
-<!--
-**vsemecky/vsemecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Co-owner & Product Developer at Testomato
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🍅 http://Testomato.com - Website monitoring
+
+## Hobby projects
+- https://ThisBeachDoesNotExist.com
+- https://konfery.cz
+- http://varlog.cz
+- http://chang.cz
+- https://svatkonos.cz
+- https://potisknatricko.cz
