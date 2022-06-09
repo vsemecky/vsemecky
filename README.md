@@ -1,9 +1,12 @@
 # Vojtěch Semecký
 
-Co-owner & Product Developer at 🍅 https://Testomato.com - Cloud based **Website monitoring** service (inlcudes Uptime Monitoring, Website Testing, Common errors monitoring)
+![Testomato.com](https://www.google.com/s2/favicons?domain=testomato.com)
+[Testomato](https://testomato.com)
+Cloud based **Website monitoring** service (inlcudes Uptime Monitoring, Website Testing, Common errors monitoring)
 
-## Hobby projects
-- https://ThisBeachDoesNotExist.com
+![ThisBeachDoesNotExist.com](https://www.google.com/s2/favicons?domain=ThisBeachDoesNotExist.com)
+[This Beach Does Not Exist](https://ThisBeachDoesNotExist.com)
+Synthetic beach image generator based on StyleGan2-ADA
 
 ## Hobby projects in 🇨🇿 Czech language
 - https://konfery.cz
