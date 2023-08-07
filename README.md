@@ -9,7 +9,7 @@ Cloud based **uptime monitoring** and **website testing** service
 Synthetic beach image generator based on StyleGan2-ADA
 
 ![VarLog.info](https://www.google.com/s2/favicons?domain=VarLog.info)
-[VarLog.info](VarLog.info) Personal blog
+[VarLog.info](https://varLog.info) Personal blog
 
 ## Hobby projects in 🇨🇿 Czech language
 - https://konfery.cz
