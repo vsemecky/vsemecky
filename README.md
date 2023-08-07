@@ -8,9 +8,12 @@ Cloud based **uptime monitoring** and **website testing** service
 [This Beach Does Not Exist](https://ThisBeachDoesNotExist.com)
 Synthetic beach image generator based on StyleGan2-ADA
 
+![VarLog.info](https://www.google.com/s2/favicons?domain=VarLog.info)
+[VarLog.info](VarLog.info) Personal blog
+
 ## Hobby projects in 🇨🇿 Czech language
 - https://konfery.cz
-- http://varlog.cz
-- http://chang.cz
+- https://varlog.cz
+- https://chang.cz
 - https://svatkonos.cz
 - https://potisknatricko.cz
